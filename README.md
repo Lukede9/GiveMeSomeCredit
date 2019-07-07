@@ -4,9 +4,7 @@ Can we look at a candidate application and tell if they are going to pay back th
 
 Yes.
 
-This dataset comes from a 2011 Kaggle competiton.
-
-Here is the competition overview:
+This dataset comes from a 2011 Kaggle competiton. Here is the competition overview:
 
 "Banks play a crucial role in market economies. They decide who can get finance and on what terms and can make or break investment decisions. For markets and society to function, individuals and companies need access to credit.
 
@@ -14,4 +12,4 @@ Credit scoring algorithms, which make a guess at the probability of default, are
 
 The goal of this competition is to build a model that (lenders) can use to help make the best financial decisions."
 
-Top scores on the leaderboard were roughly .86.
+Top scores on the leaderboard were roughly .86. My best gradient boosting classifier matched that with a score of .868.
