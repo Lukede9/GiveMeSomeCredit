@@ -1,5 +1,4 @@
 # GiveMeSomeCredit
-Give Me Some Credit: Predicting loan repayment delinquencies
 
 Can we look at a candidate application and tell if they are going to pay back their loans on time with reasonable accuracy?
 
